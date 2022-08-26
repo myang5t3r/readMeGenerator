@@ -71,14 +71,21 @@ function generateMarkdown(data) {
   ${data.projectDescription}
   ___
   ## Installation
+  ${data.installation}
   ___
   ## Usage
+  ${data.usages}
   ___
   ## Contributing
+  ${data.contribution}
   ___
   ## Tests
+  ${data.tests}
   ___
   ## Questions
+  For more information and questions please email me @ ${data.email} 
+
+  [GitHub: ${data.gitHubName}](https://github.com/myang5t3r)
   ___
   `
   // Return markdown to it can be saved

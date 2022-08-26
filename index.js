@@ -10,16 +10,16 @@ const questions = [
      name: 'title',
      message: "What's your project title?",
    },
-  //   {
-  //    type: 'input',
-  //    name: 'gitHubName',
-  //    message: "What is your gitHub user name?",
-  //  },
-  //   {
-  //    type: 'input',
-  //    name: 'email',
-  //    message: "What is your email address?",
-  //  },
+    {
+     type: 'input',
+     name: 'gitHubName',
+     message: "What is your gitHub user name?",
+   },
+    {
+     type: 'input',
+     name: 'email',
+     message: "What is your email address?",
+   },
     {
      type: 'input',
      name: 'projectDescription',
@@ -31,26 +31,26 @@ const questions = [
     message: "Please select a license",
     choices: ['Apache 2.0','GNU GPLv3', 'MIT', 'ISC', 'None'],
   },
-  // {
-  //   type: 'input',
-  //   name: 'installation',
-  //   message: "What are the steps to install your project?",
-  // },
-  // {
-  //   type: 'input',
-  //   name: 'usages',
-  //   message: "Provide instructions and examples for how to use application.",
-  // },
-  // {
-  //   type: 'input',
-  //   name: 'contribution',
-  //   message: "Include guidelines for how to contribute to project.",
-  // },
-  // {
-  //   type: 'input',
-  //   name: 'tests',
-  //   message: "Provide examples on how to test application",
-  // },
+  {
+    type: 'input',
+    name: 'installation',
+    message: "What are the steps to install your project?",
+  },
+  {
+    type: 'input',
+    name: 'usages',
+    message: "Provide instructions and examples for how to use application.",
+  },
+  {
+    type: 'input',
+    name: 'contribution',
+    message: "Include guidelines for how to contribute to project.",
+  },
+  {
+    type: 'input',
+    name: 'tests',
+    message: "Provide examples on how to test application",
+  },
   ];
   
 
