@@ -55,14 +55,14 @@ function generateMarkdown(data) {
   ## ${data.title}
   ___
   ## Table on Contents
-  1. [${data.title}](#${data.title})
-  2. [License](#License)
-  3. [Description](#Description)
-  4. [Installation](#Installation)
-  5. [Usage](#Usage)
-  6. [Contributing](#Contributing)
-  7. [Tests](#Tests)
-  8. [Questions](#Questions)
+
+  1. [License](#License)
+  2. [Description](#Description)
+  3. [Installation](#Installation)
+  4. [Usage](#Usage)
+  5. [Contributing](#Contributing)
+  6. [Tests](#Tests)
+  7. [Questions](#Questions)
   ___
   ## License
   [![](${renderLicenseBadge(data.license)})](${renderLicenseLink(data.license)})

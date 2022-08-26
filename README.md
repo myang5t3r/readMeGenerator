@@ -1,33 +1,33 @@
 
-  ## ReadMe Generator
+  ## Testing 
   ___
   ## Table on Contents
-  1. [ReadMe Generator](#ReadMe Generator)
-  2. [License](#License)
-  3. [Description](#Description)
-  4. [Installation](#Installation)
-  5. [Usage](#Usage)
-  6. [Contributing](#Contributing)
-  7. [Tests](#Tests)
-  8. [Questions](#Questions)
+
+  1. [License](#License)
+  2. [Description](#Description)
+  3. [Installation](#Installation)
+  4. [Usage](#Usage)
+  5. [Contributing](#Contributing)
+  6. [Tests](#Tests)
+  7. [Questions](#Questions)
   ___
   ## License
-  [![](https://img.shields.io/badge/license-MIT-blue)](https://choosealicense.com/licenses/mit/)
+  [![](https://img.shields.io/badge/license-GNU%20GPLv3-blue)](https://choosealicense.com/licenses/gpl-2.0/)
   ___
   ## Description
-  This application automatically generates a readme markdown file. Node.js and the inquirer libary was used for the command line interface.
+  This applications automatically generates a README.md markdown file. The tec used are node.js and the inquirer library.
   ___
   ## Installation
-  Clone repoistory
+  Clone project
   ___
   ## Usage
-  In terminal navigate to root directory and run node index.js
+  In a terminal, navigate to root directory and run node index.js
   ___
   ## Contributing
-  Contributions are granted and welcome, please clone repository and custamize as you wish. Request a pull request to push into main.
+  Contrubutions are welcomed. Please clone repository and submit a pull request if you would like to commit to master. Thank You!!
   ___
   ## Tests
-  Testing is done with node and using the cli.
+  Test can be done, in your teminal
   ___
   ## Questions
   For more information and questions please email me @ matthew.yang@hunterdouglas.com 
